@@ -185,9 +185,6 @@ This service is ideal for:
 - building a local jobs dashboard
 - feeding structured job data into another app or workflow
 
-## License
-
-This project does not currently include a formal license file. If you plan to publish or share it publicly, add an appropriate license such as MIT before distribution.
 
 ## Disclaimer
 
